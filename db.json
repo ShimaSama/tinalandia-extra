@@ -17,86 +17,34 @@
       },
       {
         "id": 3,
-        "username": 6,
-        "password": "charizard",
+        "username": "guillem",
+        "password": "guillem",
         "cart": [
-          {
-            "slot": 1,
-            "type": {
-              "code": 1,
-              "name": "fire"
-            }
-          },
-          {
-            "slot": 2,
-            "type": {
-              "code": 2,
-              "name": "flying"
-            }
-          }
+          
         ]
       },
       {
-        "id": 3,
-        "username": 6,
-        "password": "charizard",
+        "id": 4,
+        "username": "iustin",
+        "password": "iustin",
         "cart": [
-          {
-            "slot": 1,
-            "type": {
-              "code": 1,
-              "name": "fire"
-            }
-          },
-          {
-            "slot": 2,
-            "type": {
-              "code": 2,
-              "name": "flying"
-            }
-          }
+         
         ]
       },
       {
-        "id": 3,
-        "username": 6,
-        "password": "charizard",
+        "id": 5,
+        "username": "oana",
+        "password": "oana",
         "cart": [
-          {
-            "slot": 1,
-            "type": {
-              "code": 1,
-              "name": "fire"
-            }
-          },
-          {
-            "slot": 2,
-            "type": {
-              "code": 2,
-              "name": "flying"
-            }
-          }
+         
         ]
       },
       {
-        "id": 3,
-        "username": 6,
-        "password": "charizard",
+        "id": 6,
+        "username": "paula",
+        "password": "paula",
         "cart": [
-          {
-            "slot": 1,
-            "type": {
-              "code": 1,
-              "name": "fire"
-            }
-          },
-          {
-            "slot": 2,
-            "type": {
-              "code": 2,
-              "name": "flying"
-            }
-          }
+          5,7
         ]
       }
     ]
