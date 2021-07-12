@@ -1,7 +1,6 @@
 {
     "users": [
       {
-        "id": 1,
         "username": "tina",
         "password": "tina",
         "cart": [
@@ -9,14 +8,12 @@
         ]
       },
       {
-        "id": 2,
         "username": "dora",
         "password": "dora",
         "cart": [ 2,3
         ]
       },
       {
-        "id": 3,
         "username": "guillem",
         "password": "guillem",
         "cart": [
@@ -24,7 +21,6 @@
         ]
       },
       {
-        "id": 4,
         "username": "iustin",
         "password": "iustin",
         "cart": [
@@ -32,7 +28,6 @@
         ]
       },
       {
-        "id": 5,
         "username": "oana",
         "password": "oana",
         "cart": [
@@ -40,7 +35,6 @@
         ]
       },
       {
-        "id": 6,
         "username": "paula",
         "password": "paula",
         "cart": [
