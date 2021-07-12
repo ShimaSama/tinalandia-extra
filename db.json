@@ -1,29 +1,35 @@
 {
   "users": [
     {
+      "id": "1",
       "username": "tina",
       "password": "tina"
     },
     {
+      "id": "2",
       "username": "dora",
       "password": "dora"
     },
     {
+      "id": "3",
       "username": "guillem",
       "password": "guillem"
      
     },
     {
+      "id": "4",
       "username": "iustin",
       "password": "iustin"
      
     },
     {
+      "id": "5",
       "username": "oana",
       "password": "oana"
      
     },
     {
+      "id": "6",
       "username": "paula",
       "password": "paula"
      
