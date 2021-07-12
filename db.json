@@ -2,44 +2,31 @@
     "users": [
       {
         "username": "tina",
-        "password": "tina",
-        "cart": [
-          1,2
-        ]
-      },
+        "password": "tina"
+       
       {
         "username": "dora",
-        "password": "dora",
-        "cart": [ 2,3
-        ]
-      },
+        "password": "dora"
+        
       {
         "username": "guillem",
-        "password": "guillem",
-        "cart": [
-          
-        ]
+        "password": "guillem"
+       
       },
       {
         "username": "iustin",
-        "password": "iustin",
-        "cart": [
-         
-        ]
+        "password": "iustin"
+       
       },
       {
         "username": "oana",
-        "password": "oana",
-        "cart": [
-         
-        ]
+        "password": "oana"
+       
       },
       {
         "username": "paula",
-        "password": "paula",
-        "cart": [
-          5,7
-        ]
+        "password": "paula"
+       
       }
     ],
     "cards":[
