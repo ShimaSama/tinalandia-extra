@@ -3,34 +3,40 @@
     {
       "id": "1",
       "username": "tina",
+      "email": "tina@gmail.com",
       "password": "tina"
     },
     {
       "id": "2",
       "username": "dora",
+      "email": "dora@gmail.com",
       "password": "dora"
     },
     {
       "id": "3",
       "username": "guillem",
+      "email": "guillem@gmail.com",
       "password": "guillem"
      
     },
     {
       "id": "4",
       "username": "iustin",
+      "email": "iustin@gmail.com",
       "password": "iustin"
      
     },
     {
       "id": "5",
       "username": "oana",
+      "email": "oana@gmail.com",
       "password": "oana"
      
     },
     {
       "id": "6",
       "username": "paula",
+      "email": "paula@gmail.com",
       "password": "paula"
      
     }
